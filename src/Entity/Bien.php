@@ -38,6 +38,7 @@ class Bien
     private $prix;
 
     /**
+     * contact
      * @ORM\Column(type="string", length=255, nullable=true)
      */
     private $contact;
